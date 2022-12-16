@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "grammy": "https://deno.land/x/grammy@v1.12.0/mod.ts",
+    "grammy/": "https://deno.land/x/grammy@v1.12.0/"
+  }
+}
